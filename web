@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Trang web của tôi</title>
+</head>
+<body>
+  <header>
+    <h1>Chào mừng đến với trang web của tôi!</h1>
+  </header>
+  <main>
+    <p>Xin chào! Đây là trang web đầu tiên của tôi.</p>
+  </main>
+  <footer>
+    <p>Chọn tại đây</p>
+  </footer>
+</body>
+</html>
